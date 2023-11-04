@@ -21,7 +21,7 @@
 
 <p align="center">
  <a href="https://discordapp.com/users/kushal_777" target="blank">
-  <img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" alt="kushal" />
+  <img src="https://img.shields.io/badge/Discord-5764f2?style=for-the-badge&logo=discord&logoColor=white" alt="kushal" />
  </a>
  <a href="https://www.linkedin.com/in/kushal-chhetri-0aa1a51b6" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kushal"/>
