@@ -38,7 +38,7 @@
 </p>
 <br />
 
-## Scan The QR To Visit My Website
+<p align="center">Scan The QR To Visit My Website</p>
 <p align="center">
  <img align="center" width="350" src="/assets/NewQR.png" alt="Coding gif" />
 </p>
