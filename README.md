@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
- <a href="https://fuznvwv1a0qdzqdkku24ow.on.drv.tw/www.kushalpersonalweb.com/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="kushal" />
+ <a href="https://discordapp.com/users/kushal_777" target="blank">
+  <img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" alt="kushal" />
  </a>
  <a href="https://www.linkedin.com/in/kushal-chhetri-0aa1a51b6" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kushal"/>
@@ -38,7 +38,12 @@
 </p>
 <br />
 
-## Using..
+## Scan The QR To Visit My Website
+<p align="center">
+ <img align="center" width="350" src="/assets/NewQR.png" alt="Coding gif" />
+</p>
+
+## Using The Following Techs
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
