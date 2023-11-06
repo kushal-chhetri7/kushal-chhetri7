@@ -83,7 +83,7 @@
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=kushal-chhetri7&repo=SignLanguageDeepLearningProject&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kushal-chhetri7/SignLanguageDeepLearningProject)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=kushal-chhetri7&repo=Angular-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kushal-chhetri7/Angular-Project)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=kushal-chhetri7&repo=Authentication&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kushal-chhetri7/Authentication)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=kushal-chhetri7&repo=Integritybhutan&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kushal-chhetri7/Integritybhutan)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=kushal-chhetri7&repo=Integritybhutan&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kushal-chhetri7/Integrity-Bhutan)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=kushal-chhetri7&repo=CanteenCalculatorProject&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kushal-chhetri7/CanteenCalculatorProject)
 </div>
 <br/>
