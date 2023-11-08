@@ -103,3 +103,6 @@
 </p>
 
 ![Kushal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushal-chhetri7&custom_title=Kushal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=fot1m0hwbb2vs8ti4n9if68v9&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
