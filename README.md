@@ -38,11 +38,6 @@
 </p>
 <br />
 
-<p align="center">Scan The QR To Visit My Website</p>
-<p align="center">
- <img align="center" width="350" src="/assets/NewQR.png" alt="Coding gif" />
-</p>
-
 ## Using The Following Techs
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
