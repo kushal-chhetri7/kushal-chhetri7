@@ -17,7 +17,7 @@
     <br>
     <br>
   </samp>
-</p>
+  </p> 
 
 <p align="center">
  <a href="https://discordapp.com/users/kushal_777" target="blank">
